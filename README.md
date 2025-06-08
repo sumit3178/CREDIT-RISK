@@ -29,4 +29,4 @@ This project analyzes customer credit risk using SQL. It categorizes individuals
 ## How to Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/YOUR_GITHUB_USERNAME/CreditRiskAnalysis.git
+   git clone https://github.com/sumit3178/Credit-Risk.git
