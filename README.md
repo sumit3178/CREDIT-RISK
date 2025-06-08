@@ -25,6 +25,9 @@ This project analyzes customer credit risk using SQL. It categorizes individuals
 - **Risk Categorization**
 - **Data Export**
 - **Aggregations and Insights**
+- 
+## DATA was taken as csv from kaggle 
+link - https://www.kaggle.com/datasets/laotse/credit-risk-dataset?resource=download
 
 ## How to Use
 1. Clone the repository:
